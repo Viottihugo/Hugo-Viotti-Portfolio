@@ -6,9 +6,9 @@ This is a collaborative project that tries to determine the position of severe n
 
 Here's some visualization of the signals we are using for this!
 
-![alt text](https://github.com/Viottihugo/ECG_Analysis--Detection_of_severe_neurally-mediated-reflex-syncope/blob/main/Images/Figure_2020-10-20_133742.png "Señales Superpuestas")
+(https://github.com/Viottihugo/ECG_Analysis--Detection_of_severe_neurally-mediated-reflex-syncope/blob/main/Images/Figure_2020-10-20_133742.png)
 
-![alt text](https://github.com/Viottihugo/ECG_Analysis--Detection_of_severe_neurally-mediated-reflex-syncope/blob/main/Images/Figure_2020-10-20_133808.png "Señales Separadas")
+(https://github.com/Viottihugo/ECG_Analysis--Detection_of_severe_neurally-mediated-reflex-syncope/blob/main/Images/Figure_2020-10-20_133808.png)
 
 # Practice projects:
 
