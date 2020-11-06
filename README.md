@@ -15,3 +15,7 @@ Here's some visualization of the signals we are using for this!
 ## [Project 0.1: Practice on data manipulation](https://github.com/Viottihugo/Practice-Project--Preparing-data)
 
 Hands on data cleaning and manipulation using 3 datasets with information. First time trying to merge different datasets into a new one.
+
+## [Project 0.2: Practice on supervised learning using decision trees](https://github.com/Viottihugo/Decision-Tree-Classifier)
+
+Small internship task for "The Sparks Foundation" in wich it's shown how decision trees works and how to apply them to a given dataset. 
