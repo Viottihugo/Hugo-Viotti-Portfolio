@@ -2,7 +2,7 @@
 
 ## [Project 1: ECG signal analysis: detection of severe neurally mediated reflex syncope (ongoing)](https://github.com/Viottihugo/Detection-of-severe-neurally-mediated-reflex-syncope)
 
-This is a collaborative project that tries to determine the position of severe neurally mediated reflex using the ECG data of patients that are known to have it.
+This is a collaborative project that tries to determine the position of severe neurally mediated reflex using data of ECG studies from patients that are known to have it.
 We are aiming to find a characterization of the signals and then search for an appropriate model and apply it on similar datasets to see if those locations can be predicted.
 
 Here's some visualization of the signals we are using for this!
