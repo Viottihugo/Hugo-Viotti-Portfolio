@@ -2,7 +2,8 @@
 
 ## [Project 1: ECG signal analisis detection of severe neurally mediated reflex syncope (ongoing)](https://github.com/Viottihugo/Detection-of-severe-neurally-mediated-reflex-syncope)
 
-This is a collaborative project that tries to determine the position of severe neurally mediated reflex using the ECG data of patients that are known to have it and then search for an appropriate model and apply it on similar datasets to see if those locations can be predicted.
+This is a collaborative project that tries to determine the position of severe neurally mediated reflex using the ECG data of patients that are known to have it.
+We are aiming to find a characterization of the signals and then search for an appropriate model and apply it on similar datasets to see if those locations can be predicted.
 
 Here's some visualization of the signals we are using for this!
 
@@ -14,7 +15,7 @@ Here's some visualization of the signals we are using for this!
 
 ## [Tutorial of supervised learning using decision trees](https://github.com/Viottihugo/Decision-Tree-Classifier)
 
-Internship task for "The Sparks Foundation" in which it's shown how to apply the decision-tree prediction model to a given dataset. The code is explained in the jupyter notebook and I've made a tutorial video of it that you can check here [by clicking here.](https://youtu.be/D6SowLo6lTY)
+Internship task for "The Sparks Foundation" in which it's shown how to apply the decision-tree prediction model to a given dataset. The code is explained in the jupyter notebook and I've made a tutorial video for it that you can check here [by clicking here.](https://youtu.be/D6SowLo6lTY)
 
 
 # Practice projects:
