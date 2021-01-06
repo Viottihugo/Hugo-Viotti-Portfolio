@@ -20,7 +20,7 @@ Internship task for "The Sparks Foundation" in which it's shown how to apply the
 
 # Practice projects:
 
-## [Project 0.1: Data Cleaning and processing](https://github.com/Viottihugo/Practice-Project--Preparing-data)
+## [Project 0.1: Data Cleaning and munging](https://github.com/Viottihugo/Practice-Project--Preparing-data)
 
 Hands on data cleaning and manipulation using 3 datasets with information on the field of global economy. Some of the techniques included in this project are data parsing, cleaning and mapping, merging datasets and a bit of exploratory data analysis.
 
